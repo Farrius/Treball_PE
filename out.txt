@@ -1,0 +1,1500 @@
+Caso 1
+Quicksort time
+
+real	0m0.011s
+user	0m0.008s
+sys	0m0.004s
+
+
+Insertionsort time
+
+real	0m0.006s
+user	0m0.003s
+sys	0m0.003s
+
+
+Caso 2
+Quicksort time
+
+real	0m0.003s
+user	0m0.000s
+sys	0m0.003s
+
+
+Insertionsort time
+
+real	0m0.003s
+user	0m0.003s
+sys	0m0.000s
+
+
+Caso 3
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 4
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 5
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 6
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 7
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Caso 8
+Quicksort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 9
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Caso 10
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 11
+Quicksort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 12
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 13
+Quicksort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 14
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Caso 15
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 16
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 17
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 18
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 19
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 20
+Quicksort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 21
+Quicksort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 22
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 23
+Quicksort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 24
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 25
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Caso 26
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 27
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 28
+Quicksort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 29
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 30
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Caso 31
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 32
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Caso 33
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Caso 34
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 35
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Caso 36
+Quicksort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 37
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 38
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 39
+Quicksort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 40
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Caso 41
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 42
+Quicksort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 43
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Caso 44
+Quicksort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 45
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 46
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Caso 47
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 48
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 49
+Quicksort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 50
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 51
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 52
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 53
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Caso 54
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 55
+Quicksort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 56
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Caso 57
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 58
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 59
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Caso 60
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 61
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Caso 62
+Quicksort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 63
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 64
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 65
+Quicksort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 66
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 67
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 68
+Quicksort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 69
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Caso 70
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Caso 71
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 72
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Caso 73
+Quicksort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 74
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 75
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 76
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 77
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 78
+Quicksort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 79
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Caso 80
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 81
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 82
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 83
+Quicksort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 84
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 85
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 86
+Quicksort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 87
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Caso 88
+Quicksort time
+
+real	0m0.003s
+user	0m0.003s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Caso 89
+Quicksort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 90
+Quicksort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 91
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 92
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 93
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 94
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Caso 95
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 96
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 97
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 98
+Quicksort time
+
+real	0m0.002s
+user	0m0.000s
+sys	0m0.002s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 99
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Caso 100
+Quicksort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+
+Insertionsort time
+
+real	0m0.002s
+user	0m0.002s
+sys	0m0.000s
+
+

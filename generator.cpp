@@ -6,7 +6,7 @@
 #include <map>
 
 using namespace std;
-const int N = 20;
+const int N = 50;
 
 mt19937 rng(chrono::steady_clock::now().time_since_epoch().count());
 
