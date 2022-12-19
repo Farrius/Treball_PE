@@ -4,13 +4,17 @@
 #include <chrono>
 #include <algorithm>
 #include <map>
+#include <fstream>
 
 using namespace std;
+
 const int N = 10000;
 
 mt19937 rng(chrono::steady_clock::now().time_since_epoch().count());
 
 int main () {
+    ofstream myfile;
+    myfile.open("xfile.txt", ios::app);
     //int n = rng()%N + 1; //Fijar para hacerlo segun ordered_numbers
     int n = 10000;
     vector<int> ar(n);
@@ -19,6 +23,8 @@ int main () {
     vector<int> ordered = ar;
     sort(ordered.begin(), ordered.end());
     int ordered_numbers = (rng()%n) + (n%2); //Fijar para hacerlo segun n
+    myfile << ordered_numbers << endl;
+    myfile.close();
     int positions = 0;
     vector<bool> vis(n);
     map<int, bool> used;
