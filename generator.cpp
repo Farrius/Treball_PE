@@ -6,13 +6,13 @@
 #include <map>
 
 using namespace std;
-const int N = 50;
+const int N = 10000;
 
 mt19937 rng(chrono::steady_clock::now().time_since_epoch().count());
 
 int main () {
-    int n = rng()%N + 1; //Fijar para hacerlo segun ordered_numbers
-
+    //int n = rng()%N + 1; //Fijar para hacerlo segun ordered_numbers
+    int n = 10000;
     vector<int> ar(n);
     for (int i = 0; i < n; ++i) ar[i] = rng();
 
